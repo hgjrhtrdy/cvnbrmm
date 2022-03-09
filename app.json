@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "hgjrhtrdy/cvnbrmm",
+  "description": "hgjrhtrdy/cvnbrmm",
   "keywords": [
-    "vmess or vles"
+    "hgjrhtrdy/cvnbrmm"
   ],
   "env": {
     "PROTOCOL": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/hgjrhtrdy/cvnbrmm",
+  "repository": "https://github.com/hgjrhtrdy/cvnbrmm",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
